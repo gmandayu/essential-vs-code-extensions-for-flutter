@@ -1,0 +1,27 @@
+{
+  "name": "essential-vs-code-extensions-for-flutter",
+  "displayName": "Essential VS Code extensions for Flutter",
+  "description": "Using the right extensions will save you a lot of time and give you superpowers. These are my favourites.",
+  "version": "0.0.1",
+  "publisher": "gmandayu",
+  "icon": "images/flutter-icon.png",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "alexisvt.flutter-snippets",
+    "circlecodesolution.ccs-flutter-color",
+    "Dart-Code.dart-code",
+    "Dart-Code.flutter",
+    "davidwoo.flutter-auto-import",
+    "gmlewis-vscode.flutter-stylizer",
+    "hirantha.json-to-dart",
+    "hzgood.dart-data-class-generator",
+    "luanpotter.dart-import",
+    "Nash.awesome-flutter-snippets",
+    "robert-brunhage.flutter-riverpod-snippets"
+  ]
+}
